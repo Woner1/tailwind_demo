@@ -1,0 +1,7 @@
+{
+  "name": "tailwind_demo",
+  "private": true,
+  "dependencies": {
+    "tailwindcss": "^1.8.10"
+  }
+}
